@@ -26,7 +26,6 @@ Além disso, foi implementado um menu interativo para facilitar a interação co
 A solução final é um programa em C# totalmente funcional que atende a todas as especificações do desafio. As operações de adicionar, remover e listar veículos são executadas conforme as regras de negócio definidas.
 
 ### Como executar
-Descreva aqui como o usuário deve fazer para executar o seu programa. Por exemplo:
 1. Clone o repositório para a sua máquina local.
 2. Navegue até a pasta do projeto através do terminal.
 3. Execute o comando `dotnet run` para iniciar o programa.
